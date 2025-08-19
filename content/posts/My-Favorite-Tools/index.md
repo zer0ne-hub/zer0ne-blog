@@ -249,6 +249,9 @@ All-in-one and frameworks/Auto-Exploiters:
 - Vulnnr (DEAD)
 - [Sn1per](https://github.com/1N3/Sn1per)
 - [Jok3r](https://github.com/koutto/jok3r)
+- [reconftw](https://github.com/six2dez/reconftw) and  [reNgine](https://github.com/yogeshojha/rengine) (automatic recon)
+- [osmedeus](https://github.com/j3ssie/osmedeus) (custom automatic recon...if you can set it up)
+- [argus](https://github.com/jasonxtn/argus) (automatic recon but faster)
 
 # More tools (Moarrrr!)
 

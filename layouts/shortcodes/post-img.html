@@ -1,8 +1,8 @@
-{{- $src := .Get "src" -}} {{- $alt := .Get "alt" | default "Image" -}} {{-
-$class := .Get "class" | default "" -}} {{- $width := .Get "width" | default
-"300" -}} {{- $height := .Get "height" | default "200" -}} {{- $radius := .Get
-"radius" | default "4px" -}} {{- $image := .Page.Resources.GetMatch $src -}} {{-
-$finalSrc := cond $image $image.RelPermalink ($src | relURL) -}}
+{{- $src := .Get "src" -}} {{- $alt := .Get "alt" | default "image" -}} {{-
+$class := .Get "class" -}} {{- $width := .Get "width" | default "200" -}} {{-
+$height := .Get "height" | default "200" -}} {{- $image :=
+.Page.Resources.GetMatch $src -}} {{- $finalSrc := cond $image
+$image.RelPermalink ($src | relURL) -}}
 
 <img
   src="{{ $finalSrc }}"
@@ -10,7 +10,6 @@ $finalSrc := cond $image $image.RelPermalink ($src | relURL) -}}
   width="{{ $width }}"
   height="{{ $height }}"
   class="custom-image {{ $class }}"
-  style="--img-radius: {{ $radius }};"
   loading="lazy"
   decoding="async" />
 
@@ -18,7 +17,7 @@ $finalSrc := cond $image $image.RelPermalink ($src | relURL) -}}
   .custom-image {
     max-width: 100%;
     height: auto;
-    border-radius: var(--img-radius, 4px);
+    border-radius: 5%;
     object-fit: cover;
   }
 </style>
