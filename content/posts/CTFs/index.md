@@ -70,7 +70,8 @@ This one is highly recommended for beginners too. They don't really teach you, b
 Still throughout my learning journey, my wandering led me to echoCTF. The platform seem a bit newer than others but it looks like a fun place. They are quite active (busiest discord server I have ever seen) and they add new challenges regularly. I am still exploring it but so far it's pretty nice.
 I recently discovered an African platform mimicking this one a lot (like a lot...it's almost blatant plagiarism at this point XD) and it's called [afrihackbox](https://app.afrihackbox.com/). I like it tho.
 
-Another big shot to newer platform from my country that I have big hopes for are [Ironsecur](https://ctf.ironsecur.com/) and [Cybersec-bj](https://cybersec-bj.tech/s-inscrire.html) project. Latest is still not released but I am looking forward to it. This shows cybersec interest is growing in Africa and I am very happy to witness it.
+Another big shot to newer platform from my country that I have big hopes for are [Ironsecur](https://ctf.ironsecur.com/), [bjsec](https://ctf.bjsec.xyz/) and [Cybersec-bj](https://cybersec-bj.tech/s-inscrire.html) project. Latest is still not released but I am looking forward to it. All this backed by the awesome
+[bjwhitehats](https://bjwhitehats.bj/) community. This shows cybersec interest is growing in Africa and I am very happy to witness it.
 
 Apart from those main platforms that host CTFs and cybersecurity challenges 24/7 there are many time-limited events, like the famous [GoogleCTF](https://capturetheflag.withgoogle.com/team/nair0lf32).
 Those are the real "CTFs" where you can compete with other players in real-time, most often for prizes. The greatest curator os such events is [ctfTime](https://ctftime.org/). They keep track of CTF events and platforms where you can participate with your team. I am currently looking for a team or alternatively creating one (my desired name is taken). You can check my [profile here](https://ctftime.org/user/182186).
@@ -122,6 +123,7 @@ Other places I Learn or just play challenges (not actively writing writeups for 
 - [flag4jobs](https://app.flag4jobs.com/challenges) (if only it was this simple)
 - [First CTF](https://ctf.first.org/) (for newcomers and students)
 - [PwnedLabs](https://pwnedlabs.io/) (cloud pentesting labs)
+- [0x0539](https://0x0539.net)
 
 ## Cybersecurity learning
 
@@ -142,7 +144,7 @@ If you think you are good enough, prefer a freelance style and enjoy competition
 
 - [HackerOne](https://hackerone.com/nairolf?type=user) with [hacker101](https://ctf.hacker101.com/) as their playground for starters
 - [BugCrowd](https://bugcrowd.com/nairolf32)
-- [Intigriti](https://www.intigriti.com/)
+- [Intigriti](https://www.intigriti.com/) with their [hackademy](https://www.intigriti.com/researchers/hackademy)
 - [hackenProof](https://hackenproof.com/hackers/nairolf32)
 - [yesWeHack](https://yeswehack.com/)
 - [safeHats](https://app.safehats.com/)
@@ -165,7 +167,7 @@ Also for anything CTF related (non-writeups) there are some resources I recommen
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 - [PentestBook](https://pentestbook.six2dez.com/)
 
-And [this guy](https://github.com/zardus/wargame-nexus) who also made a very comprehensive list of wargames (CTFs) platforms
+And [this guy](https://github.com/zardus/wargame-nexus) who also made a very comprehensive list of wargames (CTFs) platforms just like [this one too](https://neerajlovecyber.com/ctf-cheatsheet)
 
 Now if you are ever interested, my writeups they are right [Here]({{< ref "/writeups" >}} "Writeups")
 
