@@ -1,0 +1,34 @@
+{{ $src := .Get "src" }} {{ $title := .Get "title"}} {{ $width := .Get "width" |
+default "100%" }} {{ $height := .Get "height" | default "80px" }} {{ $maxwidth
+:= .Get "maxwidth" | default "400px" }}
+
+<div
+  class="iframe-container"
+  style="
+  position: relative;
+  width: 100%;
+  max-width: {{ $maxwidth }};
+  height: {{ $height }};
+  overflow: hidden;
+  border-radius: 8px;
+margin-bottom: 0,5rem;
+margin-left: 0,2rem;
+">
+  <iframe
+    loading="lazy"
+    scrolling="no"
+    frameborder="0"
+    allowfullscreen
+    src="{{ $src }}"
+    title="{{ $title }}"
+    style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    ">
+  </iframe>
+</div>

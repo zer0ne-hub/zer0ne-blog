@@ -37,46 +37,82 @@ Now here is the downside if you want to move from "just playing CTFs" to "I do i
 
 That's mostly what you can get from me about CTFs and cybersecurity in general. Now About my CTF and learning platforms. I will talk about them below
 
-You can click on the badges below to check my profiles, or on the headings to visit the platforms
+You can click on the badges below to check my profiles and visit the platforms
 
-## [Tryhackme](https://tryhackme.com)
+## 0. CTFtime
 
-[![nairolf-tryhackme](https://tryhackme-badges.s3.amazonaws.com/nairolf.png)](https://tryhackme.com/p/nairolf)
+{{< figure src="https://ctftime.org/static/images/ct/logo.svg" link="https://ctftime.org/user/182186" alt="nairolf32-ctftime" width=300 >}}
 
-My favorite Learning platform! yeah I did not say "ctf platform" because tryhackme is way more than that! they take the clay of your security-clueless ignorant mind and mold it into a decent cybersecurity-aware one with vast potential for improvement. They literally hold your hand throughout your first steps in the cyber. Seriously they are probably the coolest and specially for beginners. I recommend it to anyone starting in the field. Now if you wanna get serious about this you could consider subscribing to their very accessible premium plan (it's definitely worth it)...Or if you are ultra penniless (just like me) you learn from many free platforms to get the most (but hey I am really considering that premium)
+Some platforms that host CTFs and cybersecurity challenges 24/7 but most CTFs are time-limited events,
+like the famous annual [GoogleCTF](https://capturetheflag.withgoogle.com/team/nair0lf32). Those are the real "CTFs" where you can compete with other players in real-time, most often for prizes.
+The Big name in the industry when It comes to such CTFs events is CTFtime! This platform do not host CTFs itself but is a big curator of CTF events (the biggest there is) and
+provides a ranking system for teams. They help you getting organized, find teams to play with, keep track of CTF points and platforms, and they also encourage teams to submit writeups for any CTF event.
 
-## [HackTheBox](https://app.hackthebox.com)
+It's definitely not for beginners itself as the platform system require
+time to get used to, and CTF events provided can vary alot in terms of level. Some can be beginners friendly
+but most are not. You can check this one after you explore other beginner platforms below and get used
+to solving challenges. I am personally not very active there yet.
 
-[![nairolf32-hackthebox](https://www.hackthebox.eu/badge/image/607474)](https://app.hackthebox.com/profile/607474)
+I am currently looking for a solid CTF team and alternatively creating mine (**zer0ne**). The goal
+is to be dedicated to CTFs and cybersecurity.
+The team is open to anyone interested, level doesn't matter but Passion does.
+You can check my [profile here](https://ctftime.org/user/182186) if you are interested. I would be
+glad to work and progress with you
 
-My first CTF platform and oh boy...what a mistake it was! You read all I said about tryhackme? well Hackthebox is kind of the opposite. They throw some starting point modules at your stupid face and kick you into the field like: "fly! b*tch"! No seriously, It's not for beginners! They now have an academy where you can learn but it costs way more than tryhackme, where I went right before coming back, a bit stronger. BUT hear me out: They have the best boxes! I am serious here...If you want hardcore challenges hackthebox is still unmatched in my opinion. Now if they say a box is easy don't listen to them! hackthebox have no easy box!
+## 1.Tryhackme
 
-## [WeChall](https://www.wechall.net/)
+{{< iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=104067"
+ title="nairolf32-tryhackme" >}}
 
-{{< figure src="https://www.wechall.net/dbimg/logo/1?0" alt="nairolf32-wechall" link="https://www.wechall.net/profile/nairolf32" position="center" width=100 >}}
+My favorite **Learning platform!** yeah I did not say "ctf platform" because tryhackme is way more than that! they take the clay of your security-clueless ignorant mind and mold it into a decent cybersecurity-aware one with vast potential for improvement. They literally hold your hand throughout your first steps in the cyber. Seriously they are probably the coolest and specially for beginners. I recommend it to anyone starting in the field. Now if you wanna get serious about this you could consider subscribing to their very accessible premium plan (it's definitely worth it)...Or if you are ultra penniless (just like me) you learn from many free platforms to get the most (but hey I am really considering that premium)
 
-Amazing place to keep track of your progress and find new challenges. They have lot of challenges from various platforms and you can link your accounts to keep track of your progress. They also have a ranking system and a forum. They basically do curating for you. I linked many of my favorite platforms (root-me, CryptoHack, OverTheWire...). They also provide their own challenges which is pretty cool. They are still very active and I hope this will last.
+## 2.HackTheBox
 
-## [Pico-Ctf](https://play.picoctf.org/)
+{{< figure src="https://www.hackthebox.eu/badge/image/607474" alt="nairolf32-hackthebox" link="https://app.hackthebox.com/profile/607474" width=300 >}}
 
-{{< figure src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="nairol32-pico" link="https://play.picoctf.org/users/nairolf32" position="center" width=180 >}}
+My first CTF platform and oh boy...what a mistake it was! You read all I said about tryhackme? well Hackthebox is kind of the opposite. They throw some starting point modules at your stupid face and kick you into the field like: "fly! b*tch"! No seriously, It's not for beginners! They now have an academy where you can learn but it costs way more than tryhackme, where I went right before coming back, a bit stronger. BUT hear me out: They have the best boxes! I am serious here...If you want hardcore challenges hackthebox is still unmatched in my opinion. Now if they say a box is easy don't listen to them! **hackthebox have no easy boxes!**
 
-This one is highly recommended for beginners too. They don't really teach you, but the challenges are very welcoming. What I loved the most there was their `web terminal`. A shell in the browser. A little personal space with some tools and storage to solve the challenges without using your own attack machine. Making it available even on the go!
+## 3.Wechall
 
-## [echoCTF](https://echoctf.red/profile/9757045/invite)
+{{< figure src="https://www.wechall.net/dbimg/logo/1?0" alt="nairolf32-wechall" link="https://www.wechall.net/profile/nairolf32" width=120 >}}
 
-{{< figure src="https://echoctf.red/profile/9757045/badge" alt="nairolf32-echoCtf" link="https://echoctf.red/profile/9757045" position="center" width=500 >}}
+Amazing place to **keep track of your progress and find new challenges**. They have lot of challenges from various platforms and you can link your accounts to keep track of your progress. They also have a ranking system and a forum. They basically do curating for you. I linked many of my favorite platforms (root-me, CryptoHack, OverTheWire...). They also provide their own challenges which is pretty cool. They are still very active and I hope this will last.
 
-Still throughout my learning journey, my wandering led me to echoCTF. The platform seem a bit newer than others but it looks like a fun place. They are quite active (busiest discord server I have ever seen) and they add new challenges regularly. I am still exploring it but so far it's pretty nice.
-I recently discovered an African platform mimicking this one a lot (like a lot...it's almost blatant plagiarism at this point XD) and it's called [afrihackbox](https://app.afrihackbox.com/). I like it tho.
+## 4.PicoCTF
 
-Another big shot to newer platform from my country that I have big hopes for are [Ironsecur](https://ctf.ironsecur.com/), [bjsec](https://ctf.bjsec.xyz/) and [Cybersec-bj](https://cybersec-bj.tech/s-inscrire.html) project. Latest is still not released but I am looking forward to it. All this backed by the awesome
-[bjwhitehats](https://bjwhitehats.bj/) community. This shows cybersec interest is growing in Africa and I am very happy to witness it.
+{{< figure src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="nairol32-pico" link="https://play.picoctf.org/users/nairolf32" width=200 >}}
 
-Apart from those main platforms that host CTFs and cybersecurity challenges 24/7 there are many time-limited events, like the famous [GoogleCTF](https://capturetheflag.withgoogle.com/team/nair0lf32).
-Those are the real "CTFs" where you can compete with other players in real-time, most often for prizes. The greatest curator os such events is [ctfTime](https://ctftime.org/). They keep track of CTF events and platforms where you can participate with your team. I am currently looking for a team or alternatively creating one (my desired name is taken). You can check my [profile here](https://ctftime.org/user/182186).
+This one is **highly recommended for beginners** too. They don't really teach you, but the challenges are very welcoming. What I loved the most there was their `web terminal`. A shell in the browser. A little personal space with some tools and storage to solve the challenges without using your own attack machine. Making it available even on the go!
 
-Another special event I participate in often is the [HackerLab](https://qualif.hackerlab.bj/) CTF. It's a local event (the only One I think) in my country (Benin).
+## 5.echoCTF
+
+{{< figure src="https://echoctf.red/profile/9757045/badge" alt="nairolf32-echoCtf" link="https://echoctf.red/profile/9757045" width=500 >}}
+
+Still throughout my learning journey, my wandering led me to echoCTF. The platform seem a bit newer than others but it looks like a fun place. They are **quite active** (busiest discord server I have ever seen) and they add new challenges regularly. I am still exploring it but so far it's pretty nice.
+
+
+## 6.African CTFs
+
+{{< figure src="https://app.afrihackbox.com/profile/6555633/badge" alt="Afihakbox" link="https://app.afrihackbox.com/profile/6555633" width=500 >}}
+
+I recently discovered an African platform mimicking echoCTF theme a lot (like a lot...it's almost blatant plagiarism at this point XD) and it's called [afrihackbox](https://app.afrihackbox.com/). I like it tho.
+They probably use the same CTF framework but there is a big difference in activity. They have fewer
+machines for the moment but are still very engaging. I don't know why I highly suspect nigerians to be
+behind this one XD
+
+## 7.BJSEC
+
+{{< figure src="https://ctf.bjsec.xyz/files/3f5ca8a96c0ae14f86edf4f6e824a7b4/Img.png" alt="BJSEC" link="https://ctf.bjsec.xyz/users/36" width=200 >}}
+
+Another big shot to newer platform from my country that I have big hopes for. The biggest fish to me for the moment is [BJSEC](https://ctf.bjsec.xyz/). Classic CTFd theme with a bit of twist. You can truly get the cool
+vibes of their challenges if you are Beninese. Those guys are mad funny. All this backed by the awesome
+[bjwhitehats](https://bjwhitehats.bj/) community. This shows **cybersec interest is growing in Africa** and I am very happy to witness it.
+
+Other local contenders I am looking forward to are:
+- [Ironsecur](https://ctf.ironsecur.com/) (occasionally)
+- [Cybersec-bj](https://cybersec-bj.tech/s-inscrire.html) project (Still not released but very promising)
+
+Another special event I participate in often is the [HackerLab](https://qualif.hackerlab.bj/) CTF. It's a local annual event (the only One I think) in my country (Benin).
 
 ### Miscellaneous
 
