@@ -173,6 +173,7 @@ Playing CTFs is cool and stuff but if you want to get real about cybersecurity y
 - [hackXpert](https://labs.hackxpert.com/)
 - [cisco skillsForAll](https://skillsforall.com/)
 - [attackIQ](https://www.academy.attackiq.com/dashboard)
+- [hackviser](https://app.hackviser.com/profile/nairolf32)
 
 ## Bug Bounties platforms
 
