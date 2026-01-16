@@ -90,23 +90,13 @@ This one is **highly recommended for beginners** too. They don't really teach yo
 
 Still throughout my learning journey, my wandering led me to echoCTF. The platform seem a bit newer than others but it looks like a fun place. They are **quite active** (busiest discord server I have ever seen) and they add new challenges regularly. I am still exploring it but so far it's pretty nice.
 
-
 ## 6.African CTFs
 
 {{< figure src="https://app.afrihackbox.com/profile/6555633/badge" alt="Afihakbox" link="https://app.afrihackbox.com/profile/6555633" width=500 >}}
 
-I recently discovered an African platform mimicking echoCTF theme a lot (like a lot...it's almost blatant plagiarism at this point XD) and it's called [afrihackbox](https://app.afrihackbox.com/). I like it tho.
-They probably use the same CTF framework but there is a big difference in activity. They have fewer
-machines for the moment but are still very engaging. I don't know why I highly suspect nigerians to be
-behind this one XD
+I recently discovered an African platform mimicking echoCTF theme a lot (like a lot...it's almost blatant plagiarism at this point XD) and it's called [afrihackbox](https://app.afrihackbox.com/). I like it tho. They probably use the same CTF framework but there is a big difference in activity. They have fewer machines for the moment but are still very engaging. I don't know why I highly suspect nigerians to be behind this one XD
 
-## 7.BJSEC
-
-{{< figure src="https://ctf.bjsec.xyz/files/3f5ca8a96c0ae14f86edf4f6e824a7b4/Img.png" alt="BJSEC" link="https://ctf.bjsec.xyz/users/36" width=200 >}}
-
-Another big shot to newer platform from my country that I have big hopes for. The biggest fish to me for the moment is [BJSEC](https://ctf.bjsec.xyz/). Classic CTFd theme with a bit of twist. You can truly get the cool
-vibes of their challenges if you are Beninese. Those guys are mad funny. All this backed by the awesome
-[bjwhitehats](https://bjwhitehats.bj/) community. This shows **cybersec interest is growing in Africa** and I am very happy to witness it.
+Another big shot to newer platform from my country that I have big hopes for. The biggest fish to me for the moment is [BJSEC](https://ctf.bjsec.xyz/). Classic CTFd theme with a bit of twist. You can truly get the cool vibes of their challenges if you are Beninese. Those guys are mad funny. All this backed by the awesome [bjwhitehats](https://bjwhitehats.bj/) community. This shows **cybersec interest is growing in Africa** and I am very happy to witness it.
 
 Other local contenders I am looking forward to are:
 - [Ironsecur](https://ctf.ironsecur.com/) (occasionally)
@@ -118,18 +108,17 @@ Another special event I participate in often is the [HackerLab](https://qualif.h
 
 Other places I Learn or just play challenges (not actively writing writeups for those):
 
-| Most recommended                                                   | Sometimes                                         |
-| ------------------------------------------------------------------ | ------------------------------------------------- |
-| [CtfLearn](https://ctflearn.com/user/nairolf32)                    | [Parrot CTFs](https://parrot-ctfs.com/)           |
-| [Root-me](https://www.root-me.org/nairolf32)                       | [AttackDefense](https://attackdefense.com/)       |
-| [OverTheWire](https://overthewire.org/wargames/nairolf32/)         | [cyberWarrior](https://ctf.cyberwarrior.com/game) |
-| [CyberTalents](https://cybertalents.com/members/nairolf32/profile) | [PentesterLab](https://pentesterlab.com)          |
-| [Hellbound hackers](https://hbh.sh/user/nairolf32)                 | [cryptoPals](https://cryptopals.com/)             |
-| [hackropole](https://hackropole.fr)                                |                                                   |
+| Most recommended                                                   | Sometimes                                   |
+| ------------------------------------------------------------------ | ------------------------------------------- |
+| [CtfLearn](https://ctflearn.com/user/nairolf32)                    | [Parrot CTFs](https://parrot-ctfs.com/)     |
+| [Root-me](https://www.root-me.org/nairolf32)                       | [AttackDefense](https://attackdefense.com/) |
+| [OverTheWire](https://overthewire.org/wargames/nairolf32/)         | [hackropole](https://hackropole.fr)         |
+| [CyberTalents](https://cybertalents.com/members/nairolf32/profile) | [PentesterLab](https://pentesterlab.com)    |
+| [Hellbound hackers](https://hbh.sh/user/nairolf32)                 | [cryptoPals](https://cryptopals.com/)       |
+
 
 ### Obscure and not very famous places
 
-- [cybersecLabs](https://www.cyberseclabs.co.uk) (sadly, this one is DEAD)
 - [HackMyVM?](https://hackmyvm.eu)
 - [flaws.cloud](http://flaws.cloud/)
 - [Zenk security](https://www.zenk-security.com/profil?uid=20722)
@@ -209,4 +198,3 @@ And [this guy](https://github.com/zardus/wargame-nexus) who also made a very com
 Now if you are ever interested, my writeups they are right [Here]({{< ref "/writeups" >}} "Writeups")
 
 Good luck and Have fun!
-
