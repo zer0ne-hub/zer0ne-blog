@@ -121,6 +121,7 @@ Just a list of cool cybersec tools! The ones I use the most ( or not ) and the o
 |                                                     | [FotoForensics](https://fotoforensics.com/)                                          |                                                      |
 |                                                     | [ZSteg](https://github.com/zed-0xff/zsteg)                                           |                                                      |
 |                                                     | [AperiSolve](https://aperisolve.com)                                                 |                                                      |
+|                                                     | [forensically](https://29a.ch/photo-forensics/)                                      |                                                      |
 
 ## Wifi
 
@@ -203,6 +204,9 @@ Just a list of cool cybersec tools! The ones I use the most ( or not ) and the o
 - [whatPortis](https://github.com/ncrocfer/whatportis)
 - [GitTools](https://github.com/internetwache/GitTools)
 - [extendsclass](https://extendsclass.com/)
+- [cvss calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
+- [mitre cwe](https://cwe.mitre.org/) (common weakness enumeration) and [cve](https://www.cve.org/) (common vulnerabilities and exposures)
+- [Bountyhub](https://bountyhub.org/) (for bounters)
 
 ## Threat detection, network monitoring and remediation
 
@@ -217,6 +221,7 @@ Just a list of cool cybersec tools! The ones I use the most ( or not ) and the o
 
 My most used tools, mostly defines my typical process
 
+- Anything from [projectdiscovery](https://projectdiscovery.io/) (they know ball)
 - Utilities
   - Google (your best friend! I google a lot)
   - [ngrok](https://ngrok.com/) (Because IRL network setup is painful)
@@ -257,7 +262,7 @@ All-in-one and frameworks/Auto-Exploiters:
 
 Here is a list of places to find more tools:
 
-- [Github](https://github.com) ( a lot in here! ) also check [this repository](https://github.com/Hack-with-Github/Awesome-Hacking), [this one](https://github.com/apsdehal/awesome-ctf) and [this guy](https://github.com/mgeeky)
+- [Github](https://github.com) ( a lot in here! ) also check [this repository](https://github.com/Hack-with-Github/Awesome-Hacking), [this one](https://github.com/apsdehal/awesome-ctf), [This too](https://github.com/vavkamil/awesome-bugbounty-tools) and [this guy](https://github.com/mgeeky)
 - [CTF-tools](https://s0v1x.github.io/CTF-tools/)
 - [Kitploit](https://www.kitploit.com/)
 - [BlackArch tools](https://blackarch.org/tools.html) (Or any Pentest Linux distro tools)
