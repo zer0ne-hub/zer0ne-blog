@@ -118,7 +118,6 @@ Other places I Learn or just play challenges (not actively writing writeups for 
 
 
 ### Obscure and not very famous places
-
 - [HackMyVM?](https://hackmyvm.eu)
 - [flaws.cloud](http://flaws.cloud/)
 - [Zenk security](https://www.zenk-security.com/profil?uid=20722)
@@ -149,6 +148,12 @@ Other places I Learn or just play challenges (not actively writing writeups for 
 - [First CTF](https://ctf.first.org/) (for newcomers and students)
 - [PwnedLabs](https://pwnedlabs.io/) (cloud pentesting labs)
 - [0x0539](https://0x0539.net)
+- [Hackuten](https://hackuten.com/) (new-ish french one with a lot of potential. Go support them hackers!)
+- [HackerDNA](https://hackerdna.com/fr/users/nairolf32)
+- [CTFzone](https://app.ctfzone.com)
+- [Webverse](https://dashboard.webverselabs-pro.com/u/nairolf32) (web challenges)
+- [Guardian foundry](https://foundry.leveleffect.com)
+
 
 ## Cybersecurity learning
 
