@@ -78,9 +78,9 @@ My first CTF platform and oh boy...what a mistake it was! You read all I said ab
 
 Amazing place to **keep track of your progress and find new challenges**. They have lot of challenges from various platforms and you can link your accounts to keep track of your progress. They also have a ranking system and a forum. They basically do curating for you. I linked many of my favorite platforms (root-me, CryptoHack, OverTheWire...). They also provide their own challenges which is pretty cool. They are still very active and I hope this will last.
 
-## 4.PicoCTF
+## 4.Cylab academy (old PicoCTF)
 
-{{< figure src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="nairol32-pico" link="https://play.picoctf.org/users/nairolf32" width=200 >}}
+{{< figure src="https://learn.cylabacademy.org/branding/logo.svg" alt="nairol32-pico" link="https://learn.cylabacademy.org/users/nairolf32" width=200 >}}
 
 This one is **highly recommended for beginners** too. They don't really teach you, but the challenges are very welcoming. What I loved the most there was their `web terminal`. A shell in the browser. A little personal space with some tools and storage to solve the challenges without using your own attack machine. Making it available even on the go!
 
