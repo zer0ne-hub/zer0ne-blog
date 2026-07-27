@@ -207,6 +207,7 @@ Just a list of cool cybersec tools! The ones I use the most ( or not ) and the o
 - [cvss calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
 - [mitre cwe](https://cwe.mitre.org/) (common weakness enumeration) and [cve](https://www.cve.org/) (common vulnerabilities and exposures)
 - [Bountyhub](https://bountyhub.org/) (for bounters)
+- Various wikis like [Hacktricks](https://hacktricks.wiki/en/index.html) and [athena codex](https://codex.athenaos.org/codex/)
 
 ## Threat detection, network monitoring and remediation
 
@@ -272,6 +273,7 @@ Here is a list of places to find more tools:
 - [RawSec tools](https://inventory.raw.pm/tools.html)
 - [this blog page](https://www.billdietrich.me/PenetrationTestingAndBugBountyHuntingTools.html?expandall=1#Cleanup)
 - [h1 article](https://www.hackerone.com/blog/104-hacking-tools-and-resources) (for bounters)
+- [netlas.io](https://netlas.io/blog/best_recon_tools_for_bug_bounty/)
 - Also Google
 
 There are also some shady places (mostly onion links) with mad awesome tools, but we are not going there. Also if for any reason you want to do Pentesting from a windows machine (for whatever reason) you could look into [PentestBox](https://pentestbox.org/) instead of downloading tools separately. But this is a bit old (2016) and tools are not updated regularly. [WSL](https://docs.microsoft.com/en-us/windows/wsl/) looks like a better option.
