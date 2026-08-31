@@ -106,9 +106,10 @@ Just a list of cool cybersec tools! The ones I use the most ( or not ) and the o
 | Disassembler Frameworks                                      | Debuggers and Decompilers                                                                                                                                                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [IDA Pro](https://hex-rays.com/ida-pro/) (industry standard) | [GDB](https://www.sourceware.org/gdb/) (check [PwnDbg](https://github.com/pwndbg/pwndbg), [PEDA](https://github.com/longld/peda), [gef](https://github.com/hugsy/gef) and [OllyDbg](http://www.ollydbg.de/)) |
-| [Ghidra](https://ghidra-sre.org/) (pride of the NSA)         | [Cutter](https://cutter.re/)                                                                                                                                                                                 |
-| [Radare2](https://github.com/radareorg/radare2)              | [PwnTools](https://pypi.org/project/pwntools/) (technically...)                                                                                                                                              |
-| [DogBolt](https://dogbolt.org/) (also check godbolt.org)     |                                                                                                                                                                                                              |
+| [Ghidra](https://ghidra-sre.org/) (pride of the NSA)         | [Cutter](https://cutter.re/)         |
+| [Radare2](https://github.com/radareorg/radare2)              | [PwnTools](https://pypi.org/project/pwntools/) (technically...)
+| [DogBolt](https://dogbolt.org/) (also check godbolt.org)     | |
+| [Openbin](https://app.openbin.ai/) |
 
 ## Steganography
 
@@ -274,6 +275,7 @@ Here is a list of places to find more tools:
 - [this blog page](https://www.billdietrich.me/PenetrationTestingAndBugBountyHuntingTools.html?expandall=1#Cleanup)
 - [h1 article](https://www.hackerone.com/blog/104-hacking-tools-and-resources) (for bounters)
 - [netlas.io](https://netlas.io/blog/best_recon_tools_for_bug_bounty/)
+- [awesome ctfs](https://apsdehal.in/awesome-ctf/)
 - Also Google
 
 There are also some shady places (mostly onion links) with mad awesome tools, but we are not going there. Also if for any reason you want to do Pentesting from a windows machine (for whatever reason) you could look into [PentestBox](https://pentestbox.org/) instead of downloading tools separately. But this is a bit old (2016) and tools are not updated regularly. [WSL](https://docs.microsoft.com/en-us/windows/wsl/) looks like a better option.
