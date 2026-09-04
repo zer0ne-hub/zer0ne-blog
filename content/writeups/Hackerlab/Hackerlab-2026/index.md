@@ -6,8 +6,6 @@ categories:
   - Hackerlab
 ---
 
-# Hackerlab 2026
-
 ## Cellule d'investigation du TCDA: 7H3 0R1G1N4L5
 
 ## Agents: ZMB_STACK, nairolf32, B04_Punk, 7H3 OR1G1N4L5

@@ -76,7 +76,7 @@ My first CTF platform and oh boy...what a mistake it was! You read all I said ab
 
 {{< figure src="https://www.wechall.net/dbimg/logo/1?0" alt="nairolf32-wechall" link="https://www.wechall.net/profile/nairolf32" width=120 >}}
 
-Amazing place to **keep track of your progress and find new challenges**. They have lot of challenges from various platforms and you can link your accounts to keep track of your progress. They also have a ranking system and a forum. They basically do curating for you. I linked many of my favorite platforms (root-me, CryptoHack, OverTheWire...). They also provide their own challenges which is pretty cool. They are still very active and I hope this will last.
+Amazing place to **keep track of your progress and find new challenges**. They have lot of challenges from various platforms and you can link your accounts to keep track of your progress. They also have a ranking system and a forum. They basically do curating for you. I linked many of my favorite platforms (root-me, CryptoHack, OverTheWire...). They also provide their own challenges which is pretty cool. They are still very active and I hope this will last. I sincerely wish they continue their amazing work and always keep the community alive.
 
 ## 4.Cylab academy (old PicoCTF)
 
@@ -106,19 +106,19 @@ Another special event I participate in often is the [HackerLab](https://qualif.h
 
 ### Miscellaneous
 
-Other places I Learn or just play challenges (not actively writing writeups for those):
+Other places I Learn or just play challenges...I am not actively writing writeups for those
 
-| Most recommended                                                   | Sometimes                                   |
-| ------------------------------------------------------------------ | ------------------------------------------- |
-| [CtfLearn](https://ctflearn.com/user/nairolf32)                    | [Parrot CTFs](https://parrot-ctfs.com/)     |
-| [Root-me](https://www.root-me.org/nairolf32)                       | [AttackDefense](https://attackdefense.com/) |
-| [OverTheWire](https://overthewire.org/wargames/nairolf32/)         | [hackropole](https://hackropole.fr)         |
-| [CyberTalents](https://cybertalents.com/members/nairolf32/profile) | [PentesterLab](https://pentesterlab.com)    |
-| [Hellbound hackers](https://hbh.sh/user/nairolf32)                 | [cryptoPals](https://cryptopals.com/)       |
-
-
-### Obscure and not very famous places
-- [HackMyVM?](https://hackmyvm.eu)
+- [CtfLearn](https://ctflearn.com/user/nairolf32)
+- [Hackuten](https://hackuten.com/) (new-ish french one with a lot of potential. Go support them hackers!)
+- [HackerDNA](https://hackerdna.com/fr/users/nairolf32)
+- [hackropole](https://hackropole.fr)
+- [OverTheWire](https://overthewire.org/wargames/nairolf32/)
+- [Parrot CTFs](https://parrot-ctfs.com/)
+- [AttackDefense](https://attackdefense.com/)
+- [CyberTalents](https://cybertalents.com/members/nairolf32/profile)
+- [PentesterLab](https://pentesterlab.com)
+- [Hellbound hackers](https://hbh.sh/user/nairolf32)
+- [cryptoPals](https://cryptopals.com/)
 - [flaws.cloud](http://flaws.cloud/)
 - [Zenk security](https://www.zenk-security.com/profil?uid=20722)
 - [hackingHub](https://app.hackinghub.io/)
@@ -148,8 +148,6 @@ Other places I Learn or just play challenges (not actively writing writeups for 
 - [First CTF](https://ctf.first.org/) (for newcomers and students)
 - [PwnedLabs](https://pwnedlabs.io/) (cloud pentesting labs)
 - [0x0539](https://0x0539.net)
-- [Hackuten](https://hackuten.com/) (new-ish french one with a lot of potential. Go support them hackers!)
-- [HackerDNA](https://hackerdna.com/fr/users/nairolf32)
 - [CTFzone](https://app.ctfzone.com)
 - [Webverse](https://dashboard.webverselabs-pro.com/u/nairolf32) (web challenges)
 - [Guardian foundry](https://foundry.leveleffect.com)
