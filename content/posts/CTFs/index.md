@@ -109,7 +109,7 @@ Another special event I participate in often is the [HackerLab](https://qualif.h
 Other places I Learn or just play challenges...I am not actively writing writeups for those
 
 - [CtfLearn](https://ctflearn.com/user/nairolf32)
-- [Hackuten](https://hackuten.com/) (new-ish french one with a lot of potential. Go support them hackers!)
+- [Hackuten](https://hackuten.fr/) (new-ish french one with a lot of potential. Go support them hackers!)
 - [HackerDNA](https://hackerdna.com/fr/users/nairolf32)
 - [hackropole](https://hackropole.fr)
 - [OverTheWire](https://overthewire.org/wargames/nairolf32/)
@@ -151,7 +151,8 @@ Other places I Learn or just play challenges...I am not actively writing writeup
 - [CTFzone](https://app.ctfzone.com)
 - [Webverse](https://dashboard.webverselabs-pro.com/u/nairolf32) (web challenges)
 - [Guardian foundry](https://foundry.leveleffect.com)
-
+- [daemoncore academy](https://www.daemoncore.app/)
+- [hacksmarter}](https://www.hacksmarter.org/)
 
 ## Cybersecurity learning
 
